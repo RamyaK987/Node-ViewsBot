@@ -1,5 +1,5 @@
 var times = 1; //How many iterations from every address
-var TARGET = 'http://google.com'; //Target adress
+var TARGET = 'https://t.me/view2345/3?embed=1'; //Target adress
 
 
 var http = require('http');
